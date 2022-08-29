@@ -1,0 +1,6 @@
+name: Scoreboard
+version: '${project.version}'
+main: xyz.klapek.scoreboard.Scoreboard
+api-version: 1.17
+authors: [ klapek, mejbi ]
+description: plugin na scoreboard
